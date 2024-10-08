@@ -43,19 +43,14 @@ main {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 40px;
     background-color: #E7F1FF;
     padding: 20px;
-    border-radius: 10px;
-    min-height: 25rem;
-    gap: 20px;
 }
 
 .segunda img {
     width: 8rem;
     height: 8rem;
     object-fit: cover; /* Coloque para arrumar as imagens  */
-    border-radius: 10px;
 }
 
 .segunda p {
